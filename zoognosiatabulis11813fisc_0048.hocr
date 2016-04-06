@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoognosiatabulis11813fisc/zoognosiatabulis11813fisc_0048.png"; bbox 0 0 2120 2850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1086 170 1226 225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1086 170 1226 225">
+     <span class='ocr_line' id='line_1_1' title="bbox 1086 170 1226 225; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1086 170 1226 225; x_wconf 73' lang='lat'>(28)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 351 260 2016 412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 351 260 2016 412">
+     <span class='ocr_line' id='line_1_2' title="bbox 351 260 1886 300; baseline 0.001 -8"><span class='ocrx_word' id='word_1_2' title='bbox 351 261 404 300; x_wconf 69' lang='lat'>4&#39;0.</span> <span class='ocrx_word' id='word_1_3' title='bbox 429 260 644 293; x_wconf 66' lang='lat' dir='ltr'>Dmvanms.</span> <span class='ocrx_word' id='word_1_4' title='bbox 732 262 857 295; x_wconf 74' lang='lat' dir='ltr'><em>Dentes</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 882 263 915 294; x_wconf 78' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 941 264 1080 296; x_wconf 54' lang='lat' dir='ltr'>maxilla</span> <span class='ocrx_word' id='word_1_7' title='bbox 1098 277 1139 296; x_wconf 87' lang='lat' dir='ltr'>u-</span> <span class='ocrx_word' id='word_1_8' title='bbox 1167 261 1276 294; x_wconf 54' lang='lat' dir='ltr'>Pinna}</span> <span class='ocrx_word' id='word_1_9' title='bbox 1295 261 1436 293; x_wconf 66' lang='lat' dir='ltr'><strong>dorsali.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1606 260 1824 294; x_wconf 63' lang='lat' dir='ltr'>Dnrmrffivs.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1847 260 1886 293; x_wconf 84' lang='lat' dir='ltr'>L.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 757 309 888 351; baseline 0.015 -12"><span class='ocrx_word' id='word_1_12' title='bbox 757 309 888 351; x_wconf 63' lang='lat' dir='ltr'>tuique.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 735 360 2016 412; baseline -0.001 -18"><span class='ocrx_word' id='word_1_13' title='bbox 735 368 862 400; x_wconf 64' lang='lat' dir='ltr'><em>Fistula</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 880 368 914 399; x_wconf 75' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_15' title='bbox 933 369 1058 412; x_wconf 60' lang='lat' dir='ltr'>capite,</span> <span class='ocrx_word' id='word_1_16' title='bbox 1167 363 1274 394; x_wconf 61' lang='lat' dir='ltr'>Pinuzi</span> <span class='ocrx_word' id='word_1_17' title='bbox 1292 362 1422 394; x_wconf 68' lang='lat' dir='ltr'>dor-sali</span> <span class='ocrx_word' id='word_1_18' title='bbox 1447 360 1553 393; x_wconf 55' lang='lat' dir='ltr'>nun-13.</span> <span class='ocrx_word' id='word_1_19' title='bbox 1606 360 1996 408; x_wconf 59' lang='lat' dir='ltr'>DmmmmnnvsLP</span> <span class='ocrx_word' id='word_1_20' title='bbox 2009 386 2016 394; x_wconf 88' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
