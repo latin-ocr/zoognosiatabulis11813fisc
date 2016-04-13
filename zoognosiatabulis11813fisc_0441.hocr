@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoognosiatabulis11813fisc/zoognosiatabulis11813fisc_0441.png"; bbox 0 0 2252 2890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 75 0 2188 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 75 0 2188 1791">
+     <span class='ocr_line' id='line_1_1' title="bbox 75 0 2188 1791; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 75 0 2188 1791; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 951 1954 1910 2518">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 951 1954 1910 2518">
+     <span class='ocr_line' id='line_1_2' title="bbox 951 1954 1910 2518; baseline -0.014 0"><span class='ocrx_word' id='word_1_2' title='bbox 951 2060 1047 2518; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1806 1954 1910 2505; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 488 2637 1677 2702">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 488 2637 1677 2702">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 2637 1677 2702; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 488 2637 540 2699; x_wconf 27' lang='lat' dir='ltr'><em>*PX</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 565 2669 817 2700; x_wconf 41' lang='lat' dir='ltr'><em>,mom&#39;lffm</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 847 2670 964 2702; x_wconf 57' lang='lat' dir='ltr'><em>s—-Qs</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 996 2665 1197 2700; x_wconf 50' lang='lat' dir='ltr'><em>‘saffram</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1257 2654 1381 2701; x_wconf 58' lang='lat'><em>.‘›”··‘)</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1447 2674 1454 2679; x_wconf 72' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1500 2670 1677 2700; x_wconf 48' lang='lat' dir='ltr'><em>(slusam</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
